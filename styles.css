@@ -1,0 +1,121 @@
+
+.header{
+    background-color:pink;
+    height: 200px;
+    font-size: xx-large;
+    font-style: normal;
+    font-family: sans-serif;
+    text-align: center;
+    color: teal;
+
+}
+.center{
+    background-color: pink;
+    height: 600px;
+}
+.footer{
+    background-color: pink;
+    height:200px;
+}
+.c-left,.c-center,.c-right{
+    height: 600px;
+    width: 33.33%;
+}
+.c-left{
+    background-color:pink;
+    float: left;
+}
+.c-center{
+    background-color:pink;
+    float: left;
+}
+.c-right{
+    background-color: pink;
+    float:left ;
+}
+.left1,.left2,.left3{
+    height:200px;
+    width:100%;
+    padding-left: 20px;
+
+
+}
+.left1{
+    background-color:pink;
+    float: top;
+}
+.left2{
+    background-color: pink;
+    float: top;
+}
+.left3{
+    background-color:pink;
+    float: top;
+}
+.center1,.center2{
+    height: 300px;
+    width: 100%;
+}
+.center1{
+    background-color:pink;
+    float: top;
+}
+.center2{
+    background-color: pink;
+    float: top;
+    font-family: sans-serif;
+    color: teal;
+}
+.right1{
+    background-color:pink;
+    width: 50%;
+    height: 300px;
+    float: top;
+}
+.right2{
+    background-color: pink;
+    width: 100%;
+    height: 300px;
+    float: top;
+    font-family: sans-serif;
+    color: teal;
+
+}
+.left1-1,.left1-2,.left1-3{
+    height: 200px;
+    width: 33.3%;
+
+}
+.left1-1{
+    background-color: pink;
+    float: left;
+
+}
+.left1-2{
+    background-color: pink;
+    float: left;
+}
+.left1-3{
+    background-color: pink;
+    float: left;
+}
+.left2-1,.left2-2{
+    height: 200px;
+    width: 50%;
+}
+.left2-1{
+    background-color: pink;
+    float: left;
+}
+.left2-2{
+    background-color: pink;
+    float:left;
+}
+.center11{
+    float: right;
+    padding: 20px;
+    margin: initial;
+    font-family: sans-serif;
+    color: teal;
+
+}
